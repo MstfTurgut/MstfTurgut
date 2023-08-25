@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MstfTurgut
-- 👀 I’m interested in mobile programming.
-- 🌱 I’m currently learning dart/flutter for my applications.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in backend programming.
+- 🌱 I’m currently learning javascript/nodejs for my web applications.
+- 🌟 I also have experience in Flutter/Dart and Java.
+- 👷‍♀️ I love contributing open-source projects.
 - 📫 How to reach me : mstftrgt00@gmail.com 
 
 <!---
