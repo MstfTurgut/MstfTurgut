@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MstfTurgut
 - 👀 I’m interested in backend programming.
-- 🌱 I’m currently learning javascript/nodejs for my web applications.
-- 🌟 I also have experience in Flutter/Dart and Java.
+- 🌱 I’m currently learning Spring Boot/Java for my web applications.
+- 🌟 I also have experience in mobile programming with Flutter/Dart.
 - 👷‍♀️ I love contributing open-source projects.
 - 📫 How to reach me : mstftrgt00@gmail.com 
 
