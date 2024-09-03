@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Mustafa Turgut</h1>
 
-- 🖥️ I am interested in backend development
-- 🌱 I’m currently learning **Spring/ Spring Boot for my web applications.**
-- 👨‍💻 I'm a 2nd grade Computer Engineering student at Manisa Celal Bayar University.
+- 👨‍💻 I'm a 3rd grade Computer Engineering student at Manisa Celal Bayar University.
 - 📫 How to reach me **mstftrgt00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
