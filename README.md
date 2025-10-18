@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mustafa Turgut</h1>
 
-- 👨‍💻 I'm a 3rd grade Computer Engineering student at Manisa Celal Bayar University.
+- 👨‍💻 I'm a software developer from Türkiye (Turkey). 
 - 📫 How to reach me **mstftrgt00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
